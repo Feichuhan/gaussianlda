@@ -1,4 +1,4 @@
-# Gaussian LDA
+# Gaussian LDA Python
 Another implementation of the paper 
 [Gaussian LDA for Topic Models with Word Embeddings](http://rajarshd.github.io/papers/acl2015.pdf).
 
